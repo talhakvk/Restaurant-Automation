@@ -46,7 +46,7 @@ The database used in the project contains the following essential tables:
 
 📌 **Database Relationships:**  
 
-![Database Diagram](path_to_diagram_image.png)
+![Database Diagram](https://github.com/talhakvk/Restaurant-Automation/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-15%20054137.png)
 
 ## 🎨 Forms & Functions
 
