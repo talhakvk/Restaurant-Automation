@@ -1,0 +1,448 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="pngtree-illustration-of-3d-credit-card-with-payment-concept-for-e-commerce-image_3856353" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-illustration-of-3d-credit-card-with-payment-concept-for-e-commerce-image_3856353.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MASALAR (1)3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MASALAR (1)3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Leonardo_Phoenix_10_Create_an_exquisite_highend_background_des_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Leonardo_Phoenix_10_Create_an_exquisite_highend_background_des_1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="QR_Kodum_1-1024" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\QR_Kodum_1-1024.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MASALAR (2)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MASALAR (2)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="YENİmusteri" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\YENİmusteri.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ekran görüntüsü 2024-12-28 231540" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ekran görüntüsü 2024-12-28 231540.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MASALAR (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MASALAR (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MASALAR (3)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MASALAR (3)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="corbalar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\corbalar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EKLE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EKLE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Leonardo_Phoenix_10_Design_a_pair_of_minimalist_squareshaped_b_3-Photoroom" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Leonardo_Phoenix_10_Design_a_pair_of_minimalist_squareshaped_b_3-Photoroom.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HESAP KAPAT (8)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HESAP KAPAT (8).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MASALAR3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MASALAR3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HESAP KAPAT (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HESAP KAPAT (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MASALAR (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MASALAR (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Leonardo_Phoenix_10_I_am_looking_for_a_background_for_restaura_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Leonardo_Phoenix_10_I_am_looking_for_a_background_for_restaura_0.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="closed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\closed.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MASALAR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MASALAR.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MASALAR1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MASALAR1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Adsız tasarım" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Adsız tasarım.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Leonardo_Phoenix_Design_a_sleek_and_modern_logo_for_Kavaklar_R_1-Photoroom" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Leonardo_Phoenix_Design_a_sleek_and_modern_logo_for_Kavaklar_R_1-Photoroom.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HESAP OZETI" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HESAP OZETI.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ekran görüntüsü 2024-12-28 231612" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ekran görüntüsü 2024-12-28 231612.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="switch" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\switch.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MASALAR (4)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MASALAR (4)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="salata" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\salata.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HESAP KAPAT (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HESAP KAPAT (4).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MASALAR (1)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MASALAR (1)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lock (1)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lock (1)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Leonardo_Phoenix_10_A_darkthemed_digital_illustration_depictin_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Leonardo_Phoenix_10_A_darkthemed_digital_illustration_depictin_1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Leonardo_Phoenix_10_A_darkthemed_digital_illustration_depictin_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Leonardo_Phoenix_10_A_darkthemed_digital_illustration_depictin_2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MASALAR (7)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MASALAR (7)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arasıcaklar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\arasıcaklar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Leonardo_Phoenix_10_Create_a_sophisticated_and_modern_backgrou_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Leonardo_Phoenix_10_Create_a_sophisticated_and_modern_backgrou_1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="YENİ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\YENİ.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MASALAR (11)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MASALAR (11).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MASALAR (8)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MASALAR (8).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Leonardo_Phoenix_10_Create_an_opulent_darkthemed_background_fo_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Leonardo_Phoenix_10_Create_an_opulent_darkthemed_background_fo_2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Leonardo_Phoenix_Create_a_sleek_modern_login_button_image_for_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Leonardo_Phoenix_Create_a_sleek_modern_login_button_image_for_1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Leonardo_Phoenix_10_Create_a_stylish_and_restaurantthemed_back_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Leonardo_Phoenix_10_Create_a_stylish_and_restaurantthemed_back_3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MASALAR (6)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MASALAR (6).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DEĞİŞT" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DEĞİŞT.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Leonardo_Phoenix_10_A_darkthemed_digital_illustration_depictin_21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Leonardo_Phoenix_10_A_darkthemed_digital_illustration_depictin_21.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ekran görüntüsü 2024-12-28 231329" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ekran görüntüsü 2024-12-28 231329.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Leonardo_Phoenix_10_I_am_looking_for_a_background_for_restaura_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Leonardo_Phoenix_10_I_am_looking_for_a_background_for_restaura_3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lock (1)2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lock (1)2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="makarnalar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\makarnalar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MASALAR (5)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MASALAR (5).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ekran görüntüsü 2024-12-28 231154" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ekran görüntüsü 2024-12-28 231154.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HESAP KAPAT (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HESAP KAPAT (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fastfood" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fastfood.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MASALAR (7)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MASALAR (7).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MASALAR (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MASALAR (4).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Leonardo_Phoenix_Create_a_professional_and_modern_logo_for_a_r_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Leonardo_Phoenix_Create_a_professional_and_modern_logo_for_a_r_3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Leonardo_Phoenix_10_I_will_make_a_form_for_payment_The_project_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Leonardo_Phoenix_10_I_will_make_a_form_for_payment_The_project_0.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MASALAR (9)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MASALAR (9)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MASALAR (1)2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MASALAR (1)2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images (2)-Photoroom" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (2)-Photoroom.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sil" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sil.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gears-3d-modern-illustration-on-dark-blue-background-vector" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gears-3d-modern-illustration-on-dark-blue-background-vector.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Leonardo_Phoenix_10_A_darkthemed_digital_illustration_depictin_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Leonardo_Phoenix_10_A_darkthemed_digital_illustration_depictin_3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="user" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\user.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Leonardo_Phoenix_10_Render_a_sophisticated_mysterious_backgrou_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Leonardo_Phoenix_10_Render_a_sophisticated_mysterious_backgrou_0.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sil1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sil1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ekran görüntüsü 2024-12-28 231411" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ekran görüntüsü 2024-12-28 231411.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Leonardo_Phoenix_10_Create_a_dramatic_highcontrast_background_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Leonardo_Phoenix_10_Create_a_dramatic_highcontrast_background_3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="switch1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\switch1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pexels-pixabay-260922" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pexels-pixabay-260922.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="exit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\exit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Leonardo_Phoenix_10_I_will_make_a_form_for_payment_The_project_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Leonardo_Phoenix_10_I_will_make_a_form_for_payment_The_project_3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (2).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dolu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dolu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Leonardo_Phoenix_Create_a_professional_and_modern_logo_for_a_r_3-Photoroom" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Leonardo_Phoenix_Create_a_professional_and_modern_logo_for_a_r_3-Photoroom.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ekran görüntüsü 2024-12-27 222953" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ekran görüntüsü 2024-12-27 222953.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-japanese-style-decorative-cafe-background-image_2333596" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-japanese-style-decorative-cafe-background-image_2333596.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MASALAR (9)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MASALAR (9).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-lighting-of-cafe-table-and-chairs-image_2636000" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-lighting-of-cafe-table-and-chairs-image_2636000.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="user (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\user (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MASALAR (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MASALAR (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HESAP KAPAT (5)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HESAP KAPAT (5).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Leonardo_Phoenix_10_A_darkthemed_digital_illustration_depictin_31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Leonardo_Phoenix_10_A_darkthemed_digital_illustration_depictin_31.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yeni" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yeni.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="acikmasa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\acikmasa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KAYDET" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\KAYDET.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bos" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bos.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sign-Photoroom" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sign-Photoroom.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lock (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lock (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HESAP KAPAT (7)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HESAP KAPAT (7).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MASALAR4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MASALAR4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Leonardo_Phoenix_10_Create_a_dramatic_restaurant_kitchen_backg_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Leonardo_Phoenix_10_Create_a_dramatic_restaurant_kitchen_backg_0.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BUL" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BUL.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5949708" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5949708.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MASALAR (8)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MASALAR (8)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="anayemek" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\anayemek.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MASALAR2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MASALAR2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HESAP KAPAT (6)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HESAP KAPAT (6).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icecekler" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icecekler.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rezerve" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rezerve.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MASALAR (5)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MASALAR (5)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ekran görüntüsü 2024-11-20 203406" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ekran görüntüsü 2024-11-20 203406.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tatlilar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tatlilar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Leonardo_Phoenix_10_I_am_looking_for_a_background_for_restaura_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Leonardo_Phoenix_10_I_am_looking_for_a_background_for_restaura_1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lock" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lock.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MASALAR (10)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MASALAR (10).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GÜNCELLE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GÜNCELLE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="istockphoto-1345445201-612x612" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\istockphoto-1345445201-612x612.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ekran görüntüsü 2024-12-27 222910" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ekran görüntüsü 2024-12-27 222910.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MASALAR (10)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MASALAR (10)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
