@@ -54,13 +54,13 @@ The database used in the project contains the following essential tables:
 
 The main menu provides a central interface for users to access different modules of the application, such as reservations, orders, table management, and reporting.
 
-![Main Menu Image](resimler/ana_menu.png)
+![Main Menu Image]([resimler/ana_menu.png](https://github.com/talhakvk/Restaurant-Automation/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-15%20044414.png))
 
 ### Table Management
 
 This form displays the status of restaurant tables, including occupancy rate, reservation status, and customer details.
 
-![Table Management Image](resimler/masa_yonetimi.png)
+![Table Management Image]([resimler/masa_yonetimi.png](https://github.com/talhakvk/Restaurant-Automation/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-15%20044423.png))
 
 ### Reservation Management
 
