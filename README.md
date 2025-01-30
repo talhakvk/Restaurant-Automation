@@ -54,31 +54,54 @@ The database used in the project contains the following essential tables:
 
 The main menu provides a central interface for users to access different modules of the application, such as reservations, orders, table management, and reporting.
 
-![Main Menu Image]([resimler/ana_menu.png](https://github.com/talhakvk/Restaurant-Automation/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-15%20044414.png))
+![Main Menu Image](https://github.com/talhakvk/Restaurant-Automation/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-15%20044414.png)
 
 ### Table Management
 
 This form displays the status of restaurant tables, including occupancy rate, reservation status, and customer details.
 
-![Table Management Image]([resimler/masa_yonetimi.png](https://github.com/talhakvk/Restaurant-Automation/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-15%20044423.png))
+![Table Management Image](https://github.com/talhakvk/Restaurant-Automation/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-15%20044423.png)
 
 ### Reservation Management
 
 The reservation management form is used to add, edit, and cancel customer reservations. Date, time, and customer information are recorded here.
 
-![Reservation Management Image](resimler/rezervasyon_yonetimi.png)
+![Reservation Management Image](https://github.com/talhakvk/Restaurant-Automation/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-15%20044509.png)
 
 ### Order Management
 
 This form is used to record and manage customer orders. Order status, products, and payment information can be viewed here.
 
-![Order Management Image](resimler/siparis_yonetimi.png)
+![Order Management Image](https://github.com/talhakvk/Restaurant-Automation/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-15%20052010.png)
+![Order Management Image](https://github.com/talhakvk/Restaurant-Automation/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-15%20044524.png)
 
 ### Reports
 
 The reports form allows viewing of various reports such as sales, reservations, and staff performance.
 
-![Reports Image](resimler/raporlar.png)
+![Reports Image](https://github.com/talhakvk/Restaurant-Automation/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-15%20051328.png)
+![Reports Image](https://github.com/talhakvk/Restaurant-Automation/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-15%20051410.png)
+
+### Kitchen Management
+
+The kitchen management module allows staff to track food preparation and coordinate with order management efficiently.
+
+![Kitchen Management Image](https://github.com/talhakvk/Restaurant-Automation/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-15%20051343.png)
+![Kitchen Management Image](https://github.com/talhakvk/Restaurant-Automation/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-15%20051355.png)
+
+
+### Customer Management
+
+This section enables the addition of new customers, tracking of order history, and management of customer preferences.
+
+![Customer Management Image](https://github.com/talhakvk/Restaurant-Automation/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-15%20050921.png)
+
+### Staff Management
+
+The staff management section allows for hiring and removing employees, tracking their shifts, and assigning roles.
+
+![Staff Management Image](https://github.com/talhakvk/Restaurant-Automation/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-15%20051423.png)
+![Staff Management Image](https://github.com/talhakvk/Restaurant-Automation/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-15%20051455.png)
 
 ## 🚀 Installation Steps
 
