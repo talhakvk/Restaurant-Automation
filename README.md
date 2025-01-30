@@ -92,7 +92,7 @@ The reports form allows viewing of various reports such as sales, reservations, 
 
 1. **Download the Project:**  
    ```sh
-   git clone https://github.com/kullanici/kavaklar-restorant-otomasyonu.git
+   git clone https://github.com/talhakvk/Restaurant-Automation.git
    ```
 
 2. **Database Setup:**
